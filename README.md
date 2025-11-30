@@ -1,4 +1,4 @@
-# Cadê Meu Rango - API
+# API Receitas
 
 ### Descrição do Projeto
 
