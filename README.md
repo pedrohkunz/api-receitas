@@ -2,7 +2,7 @@
 
 ### Descrição do Projeto
 
-API Rest desenvolvida em com Java - Spring para prover receitas, dicas e livros culinários aos usuários em formato Json. A ideia é que a API seja consumida por outras aplicações.
+API Rest desenvolvida com Java - Spring para prover receitas, dicas e livros culinários aos usuários em formato Json. A ideia é que a API seja consumida por outras aplicações.
 
 ### Características Gerais 🚀
 
